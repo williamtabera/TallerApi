@@ -12,5 +12,6 @@ namespace TallerApis.Apis.Models
         {
 
         }
+        public DbSet<tblPublicacion> Publicacion { get; set; }
     }
 }
