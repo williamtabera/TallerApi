@@ -8,7 +8,7 @@ using TallerApis.Apis.Models;
 
 namespace TallerApis.Apis.Controllers
 {
-    public class PublicacionesController : ApiController
+    public class PublicacionesController : ApiController 
     {
         [HttpGet]
         public IEnumerable<tblPublicacion> Get()
