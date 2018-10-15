@@ -15,7 +15,7 @@
                         </Grid.ColumnDefinitions>
                         <StackLayout VerticalOptions="CenterAndExpand">
                             <Label Text="{Binding Usuario}"  />
-                            <Label Text="{Binding Descripcion}" FontSize="10" />
+                            <Label Text="{Binding Descripcion}" FontSize="10" /> 
                         </StackLayout>
                     </Grid>
 
